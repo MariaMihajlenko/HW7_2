@@ -1,0 +1,15 @@
+/Users/chuprinov.d/Desktop/HW7_2/bin/Debug/net6.0/HW7_2
+/Users/chuprinov.d/Desktop/HW7_2/bin/Debug/net6.0/HW7_2.deps.json
+/Users/chuprinov.d/Desktop/HW7_2/bin/Debug/net6.0/HW7_2.runtimeconfig.json
+/Users/chuprinov.d/Desktop/HW7_2/bin/Debug/net6.0/HW7_2.dll
+/Users/chuprinov.d/Desktop/HW7_2/bin/Debug/net6.0/HW7_2.pdb
+/Users/chuprinov.d/Desktop/HW7_2/obj/Debug/net6.0/HW7_2.csproj.AssemblyReference.cache
+/Users/chuprinov.d/Desktop/HW7_2/obj/Debug/net6.0/HW7_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuprinov.d/Desktop/HW7_2/obj/Debug/net6.0/HW7_2.AssemblyInfoInputs.cache
+/Users/chuprinov.d/Desktop/HW7_2/obj/Debug/net6.0/HW7_2.AssemblyInfo.cs
+/Users/chuprinov.d/Desktop/HW7_2/obj/Debug/net6.0/HW7_2.csproj.CoreCompileInputs.cache
+/Users/chuprinov.d/Desktop/HW7_2/obj/Debug/net6.0/HW7_2.dll
+/Users/chuprinov.d/Desktop/HW7_2/obj/Debug/net6.0/refint/HW7_2.dll
+/Users/chuprinov.d/Desktop/HW7_2/obj/Debug/net6.0/HW7_2.pdb
+/Users/chuprinov.d/Desktop/HW7_2/obj/Debug/net6.0/HW7_2.genruntimeconfig.cache
+/Users/chuprinov.d/Desktop/HW7_2/obj/Debug/net6.0/ref/HW7_2.dll
